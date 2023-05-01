@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-clash-display: "Clash Display";
+  --font-colors-of-autumn: "Colors Of Autumn";
+  --font-cambridge: Cambridge;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-7xl: 26px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-aquamarine-100: #3ef1ce;
+  --color-aquamarine-200: #3ef0cd;
+  --color-darkslategray: #333;
+  --color-whitesmoke-100: #ececec;
+  --color-whitesmoke-200: #e9e9e9;
+  --color-mediumblue: #263fe3;
+
+  /* border radiuses */
+  --br-lgi: 19px;
+  --br-4xl: 23px;
+  --br-29xl: 48px;
+}
