@@ -1,3 +1,16 @@
+
+@font-face {
+  font-family: "Cambridge";
+  src: url(./public/fonts/Cambridge.ttf);
+}
+@font-face {
+  font-family: "Colors Of Autumn";
+  src: url(./public/fonts/COA.TTF);
+}
+@font-face {
+  font-family: "Clash Display";
+  src: url(./public/fonts/cdsemibold.OTF);
+}
 .bg-2-icon,
 .bg-web-1-icon,
 .bg-web-2-icon {
